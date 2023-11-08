@@ -1,3 +1,3 @@
-class clone1{
+class clone{
 
 }
