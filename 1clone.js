@@ -1,0 +1,3 @@
+class clone1{
+
+}
